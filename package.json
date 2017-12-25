@@ -1,0 +1,11 @@
+{
+  "name": "socket-live-chat",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-chat-server": "^1.1.1",
+    "socket.io": "^2.0.4",
+    "upper-case": "^1.1.3"
+  }
+}
